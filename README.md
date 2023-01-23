@@ -28,7 +28,7 @@ THEN the saved events persist
 
 ## GIF/Screenshot of application:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/img/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/img/screenshot.gif)
 
 ## Description:
 This is a simple calendar application that allows a user to save events for each hour of the day. 
