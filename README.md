@@ -35,4 +35,4 @@ This is a simple calendar application that allows a user to save events for each
 This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery!
 
 # Link to deployed website:
-placeholder
+https://domenicobarb.github.io/work-day-scheduler/
